@@ -339,6 +339,9 @@
   template {
     display: none;
   }
+  p{
+    display: inline-block;
+  }
   
   /**
    * Add the correct display in IE 10.
@@ -350,5 +353,4 @@
   img{
     height: 300px;
     width: 300px;
-    display: inline;
   }
